@@ -1,0 +1,11 @@
+Name,Age,Place,Marks,Gender,Course,DoB,Email,Salary,Joining_Date
+,25.0,Kalaburagi,88.0,Male,AI,2000-04-15,avi@gmail.com,35000.0,2023-02-01
+Kiran,,,92.0,Male,IoT,1995-06-20,kiran@gmail.com,60000.0,2022-05-15
+Rohit,22.0,Mysuru,76.0,,Web,2001-12-05,rohit@gmail.com,,2023-06-10
+Sana,28.0,Hubli,81.0,Female,AI,1997-03-10,sana@gmail.com,40000.0,2021-09-01
+Meera,,Kalaburagi,90.0,Female,IoT,1996-08-22,meera@gmail.com,45000.0,2022-11-20
+,22.0,Mysuru,76.0,,Web,2001-12-05,rohit@gmail.com,25000.0,2023-06-10
+Divya,24.0,Belagavi,,Female,AI,1999-11-30,divya@gmail.com,,2023-01-05
+Amit,35.0,,85.0,,ML,1990-01-19,amit@gmail.com,80000.0,2020-12-10
+Kiran,,Bangalore,,Male,IoT,1995-06-20,kiran@gmail.com,60000.0,2022-05-15
+Sneha,29.0,Hubli,79.0,Female,ML,1996-09-05,sneha@gmail.com,42000.0,2021-08-01
